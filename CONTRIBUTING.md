@@ -6,9 +6,9 @@
 
 ## 任务分配
 
-1. 相关事宜将在 QQ 群 [639775967](https://qm.qq.com/cgi-bin/qm/qr?k=bbFbbt0CNs8lp5KegWf5dNMBiuYskt3v&authKey=SSRNAQTcd8lKGJb6bfx+LUz6tTZgaIZTO65ftpmSq7Kh0aN+ooLt2xUaFQML4rxX&noverify=0) 讨论，加群请备注 GitHub 用户名。（如果没有 QQ，Tel@ApolloZhu）
-2. 翻译请通过 [新建 issue](https://github.com/Apollonyan/CS193p-Developing-Apps-for-iOS-Spring-2020/issues/new?labels=%E7%BF%BB%E8%AF%91%E4%B8%AD&template=translate.md&title=%E7%BF%BB%E8%AF%91+X+%E9%9B%86+Y+-+Z+%E6%AE%B5%E5%AD%97%E5%B9%95) 的形式认领，根据模版
-3. 任务分配后看板会自动更新，@ApolloZhu 会在 [README](README.md) 中更新任务分配情况
+1. 相关事宜将在 QQ 群 [639775967](https://qm.qq.com/cgi-bin/qm/qr?k=bbFbbt0CNs8lp5KegWf5dNMBiuYskt3v&authKey=SSRNAQTcd8lKGJb6bfx+LUz6tTZgaIZTO65ftpmSq7Kh0aN+ooLt2xUaFQML4rxX&noverify=0) 讨论，加群请备注 GitHub 用户名（如没有 QQ，Tel@ApolloZhu）
+2. 翻译请通过 [新建 issue](https://github.com/Apollonyan/CS193p-Developing-Apps-for-iOS-Spring-2020/issues/new?labels=%E7%BF%BB%E8%AF%91%E4%B8%AD&template=translate.md&title=%E7%BF%BB%E8%AF%91+X+%E9%9B%86+Y+-+Z+%E6%AE%B5%E5%AD%97%E5%B9%95) 的形式认领，认领时请完整填写模版中的内容。
+3. 任务申领后看板会自动更新，@ApolloZhu 会在一天内更新 [README](README.md) 中任务分配情况
 
 ## 翻译方法
 
